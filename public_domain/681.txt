@@ -1,10 +1,10 @@
-Title:This Is the Day the Lord Hath Made
-Author:©
-Copyright:Public Domain
+Title: This Is the Day the Lord Hath Made
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 681
+Hymnal: Hymn 681
 
-[Verse 1]
+{Verse 1}
 This is the day the Lord hath made;
 he calls the hours his own.
 Let heaven rejoice, let earth be glad,

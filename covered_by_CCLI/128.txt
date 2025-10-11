@@ -1,11 +1,11 @@
-Title:Break Forth, O Beauteous Heavenly Light
-Author:©
-Copyright:Projection Permitted Under
+Title: Break Forth, O Beauteous Heavenly Light
+Author: ©
+Copyright: Projection Permitted Under
 CCLI:965986
-Hymnal:Hymn 128
-PlayOrder:Verse 1,Verse 2
+Hymnal: Hymn 128
+PlayOrder: Verse 1,Verse 2
 
-[Verse 1]
+{Verse 1}
 Break forth, O beauteous heavenly light,
 And usher in the morning;
 Ye shepherds, shrink not with affright,
@@ -16,7 +16,7 @@ Our confidence and joy shall be,
 The power of Satan breaking,
 Our peace eternal making.
 
-[Verse 2]
+{Verse 2}
 Break forth, O beauteous heavenly light,
 To herald our salvation;
 He stoops to earth - the God of might,

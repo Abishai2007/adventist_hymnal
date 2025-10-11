@@ -1,11 +1,11 @@
-Title:Were You There
-Author:©
-Copyright:Public Domain
+Title: Were You There
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 158
-PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4,Verse 5
+Hymnal: Hymn 158
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4,Verse 5
 
-[Verse 1]
+{Verse 1}
 Were you there when
 they crucified my Lord?
 Were you there when
@@ -16,7 +16,7 @@ tremble, tremble, tremble.
 Were you there when
 they crucified my Lord?
 
-[Verse 2]
+{Verse 2}
 Were you there when
 they nailed Him to the tree?
 Were you there when
@@ -27,7 +27,7 @@ tremble, tremble, tremble.
 Were you there when
 they nailed Him to the tree?
 
-[Verse 3]
+{Verse 3}
 Were you there when
 they pierced Him in the side?
 Were you there when
@@ -38,7 +38,7 @@ tremble, tremble, tremble.
 Were you there when
 they pierced Him in the side?
 
-[Verse 4]
+{Verse 4}
 Were you there when
 the sun refused to shine?
 Were you there when
@@ -49,7 +49,7 @@ tremble, tremble, tremble.
 Were you there when
 the sun refused to shine?
 
-[Verse 5]
+{Verse 5}
 Were you there when
 they laid Him in the tomb?
 Were you there when

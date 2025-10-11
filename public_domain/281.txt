@@ -1,10 +1,10 @@
-Title:I Gave My Life for Thee
-Author:©
-Copyright:Public Domain
+Title: I Gave My Life for Thee
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 281
+Hymnal: Hymn 281
 
-[Verse 1]
+{Verse 1}
 I gave my life for thee,
 My precious blood I shed,
 That thou might’st ransom be,
@@ -14,7 +14,7 @@ What hast thou given for Me?
 I gave, I gave My life for thee,
 What hast thou given for Me?
 
-[Verse 2]
+{Verse 2}
 My Fathers house of light,
 My glory circled throne,
 I left for earthly night,
@@ -24,7 +24,7 @@ Hast thou left aught for Me?
 I left, I left it all for thee,
 Hast thou left aught for Me?
 
-[Verse 3]
+{Verse 3}
 I suffered much for thee,
 more than thy tongue can tell,
 Of bitterest agony,

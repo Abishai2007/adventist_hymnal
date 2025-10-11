@@ -1,10 +1,10 @@
-Title:God Is My Strong Salvation
-Author:©
-Copyright:Public Domain
+Title: God Is My Strong Salvation
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 339
+Hymnal: Hymn 339
 
-[Verse 1]
+{Verse 1}
 God is my strong salvation,
 What foe have I to fear?
 In darkness and temptation,
@@ -14,7 +14,7 @@ Firm in the fight I stand;
 What terror can confound me,
 With God at my right hand?
 
-[Verse 2]
+{Verse 2}
 Place on the reliance;
 My soul with courage wait;
 His truth be thine affiance,

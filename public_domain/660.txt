@@ -1,10 +1,10 @@
-Title:Glory Be to the Father
-Author:©
-Copyright:Public Domain
+Title: Glory Be to the Father
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 660
+Hymnal: Hymn 660
 
-[Verse 1]
+{Verse 1}
 Glory be to the Father,
 and to the Son,
 and to the Holy Ghost;

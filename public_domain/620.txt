@@ -1,10 +1,10 @@
-Title:On Jordan’s Stormy Banks
-Author:©
-Copyright:Public Domain
+Title: On Jordan’s Stormy Banks
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 620
+Hymnal: Hymn 620
 
-[Verse 1]
+{Verse 1}
 On Jordan’s stormy banks I stand,
 And cast a wishful eye
 To Canaan’s fair and happy land,
@@ -14,7 +14,7 @@ I am bound for the promised land;
 O who will come and go with me?
 I am bound for the promised land.
 
-[Verse 2]
+{Verse 2}
 O’er all those wide extended plain
 Shines one eternal day;
 There, Christ, the Sun, for ever reigns,
@@ -24,7 +24,7 @@ I am bound for the promised land;
 O who will come and go with me?
 I am bound for the promised land.
 
-[Verse 3]
+{Verse 3}
 When shall I reach that happy place,
 And be forever blest?
 When shall I see my Father’s face,
@@ -34,7 +34,7 @@ I am bound for the promised land;
 O who will come and go with me?
 I am bound for the promised land.
 
-[Verse 4]
+{Verse 4}
 Filled with delight, my raptured soul
 Would here no longer stay;
 Though Jordan’s waves around me roll,

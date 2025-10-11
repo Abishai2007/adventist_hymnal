@@ -1,10 +1,10 @@
-Title:God Be in My Head
-Author:©
-Copyright:Public Domain
+Title: God Be in My Head
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 678
+Hymnal: Hymn 678
 
-[Verse 1]
+{Verse 1}
 God be in my head, and in my understanding;
 God be in mine eyes, and in my looking;
 God be in my mouth, and in my speaking;

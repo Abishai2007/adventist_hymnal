@@ -1,11 +1,11 @@
-Title:The God of Abraham Praise
-Author:©
-Copyright:Public Domain
+Title: The God of Abraham Praise
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 11
-PlayOrder:Verse 1,Verse 2,Verse 3
+Hymnal: Hymn 11
+PlayOrder: Verse 1,Verse 2,Verse 3
 
-[Verse 1]
+{Verse 1}
 The God of Abraham praise,
 Who reigns enthroned above;
 Ancient of everlasting days,
@@ -15,7 +15,7 @@ By earth and heaven confessed;
 I bow and bless the sacred name,
 Forever blest.
 
-[Verse 2]
+{Verse 2}
 The God of Abraham praise,
 At whose supreme command
 From earth I rise, and seek the joys
@@ -25,7 +25,7 @@ Its wisdom, fame and power;
 And Him my only portion make,
 My shield and tower.
 
-[Verse 3]
+{Verse 3}
 The whole triumphant host
 Give thanks to God on high;
 “Hail, Father, Son, and Holy Ghost!”

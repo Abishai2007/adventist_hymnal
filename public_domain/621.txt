@@ -1,10 +1,10 @@
-Title:Gracious Father, Guard Thy Children
-Author:©
-Copyright:Public Domain
+Title: Gracious Father, Guard Thy Children
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 621
+Hymnal: Hymn 621
 
-[Verse 1]
+{Verse 1}
 Gracious Father, guard Thy children
 From the foe’s destructive power;
 Save, O save them, Lord, from falling
@@ -14,7 +14,7 @@ All our graces must be tried;
 But Thy word illumes our pathway,
 And in God we still confide.
 
-[Verse 2]
+{Verse 2}
 We are in the time of waiting;
 Soon we shall behold our Lord,
 Wafted far away from sorrow,
@@ -24,7 +24,7 @@ Pure, unspotted from the world;
 Let Thy Holy Spirit cheer us
 Till Thy banner is unfurled.
 
-[Verse 3]
+{Verse 3}
 With what joyful exultation
 Shall the saints Thy banner see,
 When the Lord for whom we’ve waited

@@ -1,10 +1,10 @@
-Title:Almighty Father
-Author:©
-Copyright:Public Domain
+Title: Almighty Father
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 693
+Hymnal: Hymn 693
 
-[Verse 1]
+{Verse 1}
 Almighty Father, hear our prayer,
 and bless all souls that wait before Thee.
 Amen.

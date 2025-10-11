@@ -1,10 +1,10 @@
-Title:Bless Thou the Gifts
-Author:©
-Copyright:Public Domain
+Title: Bless Thou the Gifts
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 686
+Hymnal: Hymn 686
 
-[Verse 1]
+{Verse 1}
 Bless thou the gifts our hands have brought;
 bless thou the work our hearts have planned.
 Ours is the faith, the will, the thought;

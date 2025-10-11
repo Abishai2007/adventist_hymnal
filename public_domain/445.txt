@@ -1,10 +1,10 @@
-Title:I’m But a Stranger Here
-Author:©
-Copyright:Public Domain
+Title: I’m But a Stranger Here
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 445
+Hymnal: Hymn 445
 
-[Verse 1]
+{Verse 1}
 I’m but a stranger here,
 Heav’n is my home;
 Earth is a desert drear,
@@ -14,7 +14,7 @@ Round me on every hand;
 Heav’n is my fatherland,
 Heav’n is my home.
 
-[Verse 2]
+{Verse 2}
 What though the tempest rage,
 Heav’n is my home;
 Short is my pilgrimage,
@@ -24,7 +24,7 @@ Soon shall be over past;
 I shall reach home at last,
 Heav’n is my home.
 
-[Verse 3]
+{Verse 3}
 There at my Saviour’s side
 Heav’n is my home;
 I shall be glorified,

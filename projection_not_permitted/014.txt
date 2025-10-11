@@ -1,18 +1,18 @@
-Title:Let Us Praise the Name of the Lord
-Author:
-Copyright:Projection Not Permitted
+Title: Let Us Praise the Name of the Lord
+Author: 
+Copyright: Projection Not Permitted
 CCLI:
-Hymnal:Hymn 14
+Hymnal: Hymn 14
 
 
-[Verse 1]
+{Verse 1}
 Let us praise the name of the Lord!
 Give Him glory, Amen.
 
-[Verse 2]
+{Verse 2}
 Go ye into all the world.
 Alleluia, Amen.
 
-[Verse 3]
+{Verse 3}
 Amen, amen,
 Amen, amen.

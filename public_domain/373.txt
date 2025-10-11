@@ -1,10 +1,10 @@
-Title:Seeking the Lost
-Author:©
-Copyright:Public Domain
+Title: Seeking the Lost
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 373
+Hymnal: Hymn 373
 
-[Verse 1]
+{Verse 1}
 Seeking the lost,
 yes, kindly entreating
 Wanderers on the mountain astray;
@@ -13,7 +13,7 @@ Wanderers on the mountain astray;
 His message repeating,
 Words of the Master speaking today.
 
-[Chorus]
+{Chorus}
 Going afar
 Upon the mountain
 Bringing the wanderer back again,
@@ -24,7 +24,7 @@ Of my Redeemer
 Jesus the Lamb for sinners slain,
 for sinners slain.
 
-[Verse 2]
+{Verse 2}
 Seeking the lost
 and pointing to Jesus
 Souls that are weak
@@ -34,7 +34,7 @@ Leading them forth
 in ways of salvation,
 Showing the path to life evermore.
 
-[Verse 3]
+{Verse 3}
 Thus would I go
 on missions of mercy,
 Following Christ from day unto day,

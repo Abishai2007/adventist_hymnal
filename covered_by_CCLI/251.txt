@@ -1,11 +1,11 @@
-Title:He Lives
-Author:©
-Copyright:Projection Permitted Under
+Title: He Lives
+Author: ©
+Copyright: Projection Permitted Under
 CCLI:17597
-Hymnal:Hymn 251
-PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
+Hymnal: Hymn 251
+PlayOrder: Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
 
-[Verse 1]
+{Verse 1}
 I serve a risen Saviour,
 He’s in the world today;
 I know that He is living,
@@ -15,7 +15,7 @@ I hear His voice of cheer
 And just the time
 I need Him He’s always near.
 
-[Chorus]
+{Chorus}
 He lives, He lives,
 Christ Jesus lives today!
 He walks with me
@@ -26,7 +26,7 @@ salvation to impart!
 You ask me how I know He lives?
 He lives within my heart.
 
-[Verse 2]
+{Verse 2}
 In all the world around me
 I see His loving care,
 And tho’ my heart grows weary
@@ -36,7 +36,7 @@ thru all the stormy blast,
 The day of His appearing
 will come at last.
 
-[Verse 3]
+{Verse 3}
 Rejoice, rejoice, O Christian,
 lift up your voice and sing,
 Eternal hallelujahs

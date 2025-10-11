@@ -1,11 +1,11 @@
-Title:The Dawn of God’s Dear Sabbath
-Author:©
-Copyright:Public Domain
+Title: The Dawn of God’s Dear Sabbath
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 40
-PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
+Hymnal: Hymn 40
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4
 
-[Verse 1]
+{Verse 1}
 The dawn of God’s dear Sabbath
 Breaks o’er the earth again,
 As some sweet summer morning
@@ -15,7 +15,7 @@ To some exhausted land,
 As shade of clustreed palm trees
 ’Mid weary wastes of sand.
 
-[Verse 2]
+{Verse 2}
 Lord, we would bring for offering,
 Though marred with earthly soil,
 A week of earnest labour,
@@ -25,7 +25,7 @@ Of strong, deep love to Thee,
 Fostered by Thine own Spirit,
 In true humility.
 
-[Verse 3]
+{Verse 3}
 And we would bring our burden
 Of sinful thought and deed,
 In Thy pure presence kneeling,
@@ -35,7 +35,7 @@ For all Thy work undone-
 So many talents wasted!
 So few bright laurels won!
 
-[Verse 4]
+{Verse 4}
 And with that sorrow mingling,
 A steadfast faith, and sure,
 And love so deep and fervent,

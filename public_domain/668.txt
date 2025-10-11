@@ -1,10 +1,10 @@
-Title:O Thou Who Hearest
-Author:©
-Copyright:Public Domain
+Title: O Thou Who Hearest
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 668
+Hymnal: Hymn 668
 
-[Verse 1]
+{Verse 1}
 O Thou who hearest every heartfelt prayer,
 With Thy rich grace, Lord, all our hearts prepare;
 Thou art our life, Thou art our love and light,

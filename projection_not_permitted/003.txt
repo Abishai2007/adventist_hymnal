@@ -1,11 +1,11 @@
-Title:God Himself Is With Us
-Author:
-Copyright:Projection Not Permitted
+Title: God Himself Is With Us
+Author: 
+Copyright: Projection Not Permitted
 CCLI:
-Hymnal:Hymn 3
+Hymnal: Hymn 3
 
 
-[Verse 1]
+{Verse 1}
 God Himself is with us;
 Let us all adore Him,
 And with awe appear before Him.
@@ -17,7 +17,7 @@ Now His own who have known God,
 In worship lowly,
 Yield their spirits wholly.
 
-[Verse 2]
+{Verse 2}
 Come, abide within me;
 Let my soul, like Mary,
 Be Thine earthly sanctuary.
@@ -29,7 +29,7 @@ Where I go here below,
 Let me bow before Thee,
 Know Thee and adore Thee.
 
-[Verse 3]
+{Verse 3}
 Gladly we surrender
 Earth’s deceitful treasures,
 Pride of life and sinful pleasures:

@@ -1,11 +1,11 @@
-Title:Love Divine
-Author:©
-Copyright:Public Domain
+Title: Love Divine
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 191
-PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
+Hymnal: Hymn 191
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4
 
-[Verse 1]
+{Verse 1}
 Love divine, all loves excelling,
 joy of heaven, to earth come down;
 fix in us thy humble dwelling;
@@ -15,7 +15,7 @@ pure, unbounded love thou art;
 visit us with thy salvation;
 enter every trembling heart.
 
-[Verse 2]
+{Verse 2}
 Breathe, O breathe thy loving Spirit
 into every troubled breast!
 Let us all in thee inherit;
@@ -25,7 +25,7 @@ Alpha and Omega be;
 end of faith, as its beginning,
 set our hearts at liberty.
 
-[Verse 3]
+{Verse 3}
 Come, Almighty to deliver,
 let us all thy grace receive;
 suddenly return and never,
@@ -35,7 +35,7 @@ serve thee as thy hosts above,
 pray and praise thee without ceasing,
 glory in thy perfect love.
 
-[Verse 4]
+{Verse 4}
 Finish, then, thy new creation;
 pure and spotless let us be.
 Let us see thy great salvation

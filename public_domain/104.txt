@@ -1,11 +1,11 @@
-Title:My Shepherd Will Supply My Need
-Author:©
-Copyright:Public Domain
+Title: My Shepherd Will Supply My Need
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 104
-PlayOrder:Verse 1,Verse 2,Verse 3
+Hymnal: Hymn 104
+PlayOrder: Verse 1,Verse 2,Verse 3
 
-[Verse 1]
+{Verse 1}
 My Shepherd will supply my need,
 Jehovah is His name.
 In pastures fresh He makes me feed
@@ -15,7 +15,7 @@ When I forsake His ways,
 And leads, me for His mercy’s sake,
 In paths of truth and grace.
 
-[Verse 2]
+{Verse 2}
 When I walk through the shades of death,
 Thy presence is my stay;
 A word of Thy supporting breath
@@ -25,7 +25,7 @@ Doth still my table spread;
 My cup with blessings overflows,
 Thine oil anoints my head.
 
-[Verse 3]
+{Verse 3}
 The sure provisions of my God
 Attend me all my days;
 O may Thy house be mine abode

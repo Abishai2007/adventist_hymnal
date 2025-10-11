@@ -1,10 +1,10 @@
-Title:Lead Me, Lord
-Author:©
-Copyright:Public Domain
+Title: Lead Me, Lord
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 691
+Hymnal: Hymn 691
 
-[Verse 1]
+{Verse 1}
 Lead me, Lord, lead me in thy righteousness;
 make thy way plain before my face.
 For it is thou, Lord, thou, Lord only,

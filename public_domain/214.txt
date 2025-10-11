@@ -1,11 +1,11 @@
-Title:We Have This Hope
-Author:©
-Copyright:Public Domain
+Title: We Have This Hope
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 214
-PlayOrder:Verse 1,Verse 2
+Hymnal: Hymn 214
+PlayOrder: Verse 1,Verse 2
 
-[Verse 1]
+{Verse 1}
 We have this hope that burns within our heart,
 Hope in the coming of the Lord.
 We have this faith that Christ alone imparts,
@@ -17,7 +17,7 @@ Hallelujah! Christ is King!
 We have this hope that burns within our heart,
 Hope in the coming of the Lord.
 
-[Verse 2]
+{Verse 2}
 We are united in Jesus Christ our Lord.
 We are united in His love.
 Love for the waiting people of the world,

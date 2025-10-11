@@ -1,10 +1,10 @@
-Title:The Lord Is in His Holy Temple
-Author:©
-Copyright:Public Domain
+Title: The Lord Is in His Holy Temple
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 692
+Hymnal: Hymn 692
 
-[Verse 1]
+{Verse 1}
 The Lord is in His holy temple,
 The Lord is in His holy temple,
 Let all the earth keep silence,

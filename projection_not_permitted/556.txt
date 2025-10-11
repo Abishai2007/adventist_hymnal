@@ -1,11 +1,11 @@
-Title:As Saints of Old
-Author:
-Copyright:Projection Not Permitted
+Title: As Saints of Old
+Author: 
+Copyright: Projection Not Permitted
 CCLI:
-Hymnal:Hymn 556
+Hymnal: Hymn 556
 
 
-[Verse 1]
+{Verse 1}
 As saints of old their first fruits brought
 Of orchard, flock, and field
 To God the giver all good,
@@ -15,7 +15,7 @@ The wealth of this good land,
 Of farm and market, shop and home,
 Of mind, and heart, and hand.
 
-[Verse 2]
+{Verse 2}
 A world in need now summons us
 To labour, love, and give;
 To make our life an offering
@@ -25,7 +25,7 @@ To make the dream come true:
 A world redeemed by Christ-like love;
 All life in Christ made new.
 
-[Verse 3]
+{Verse 3}
 In gratitude and humble trust
 We bring our best today,
 To serve Your cause and share Your love

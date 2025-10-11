@@ -1,11 +1,11 @@
-Title:There’s a Song in the Air
-Author:©
-Copyright:Public Domain
+Title: There’s a Song in the Air
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 120
-PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
+Hymnal: Hymn 120
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4
 
-[Verse 1]
+{Verse 1}
 There’s a song in the air!
 There’s a star in the sky!
 There’s a mother’s deep prayer
@@ -16,7 +16,7 @@ while the beautiful sing,
 For the manger of Bethlehem
 cradles a King!
 
-[Verse 2]
+{Verse 2}
 There’s a tumult of joy
 O’er the wonderful birth,
 For the virgin’s sweet boy
@@ -27,7 +27,7 @@ while the beautiful sing,
 For the manger of Bethlehem
 cradles a King!
 
-[Verse 3]
+{Verse 3}
 In the light of that star
 Lie the ages impearled;
 And that song from afar
@@ -38,7 +38,7 @@ and the beautiful sing
 In the homes of the nations
 that Jesus is King!
 
-[Verse 4]
+{Verse 4}
 We rejoice in the light,
 And we echo the song
 That comes down through the night

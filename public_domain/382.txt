@@ -1,10 +1,10 @@
-Title:O Day of Rest and Gladness
-Author:©
-Copyright:Public Domain
+Title: O Day of Rest and Gladness
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 382
+Hymnal: Hymn 382
 
-[Verse 1]
+{Verse 1}
 O day of rest and gladness,
 O day of joy and light,
 O balm of care and sadness,
@@ -14,7 +14,7 @@ who bend before throne,
 sing, “Holy, holy, holy,”
 to the Eternal One.
 
-[Verse 2]
+{Verse 2}
 Thou art a port protected
 from storms that round us rise;
 a garden intersected
@@ -24,7 +24,7 @@ in life’s dry, dreary sand;
 from thee, like Pisgah’s mountain,
 we view our promised land.
 
-[Verse 3]
+{Verse 3}
 A day of sweet reflection,
 thou art a day of love,
 A day to raise affection

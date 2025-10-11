@@ -1,11 +1,11 @@
-Title:That Glorious Day Is Coming
-Author:
-Copyright:Projection Not Permitted
+Title: That Glorious Day Is Coming
+Author: 
+Copyright: Projection Not Permitted
 CCLI:
-Hymnal:Hymn 209
+Hymnal: Hymn 209
 
 
-[Verse 1]
+{Verse 1}
 That glorious day is coming,
 The hour is hastening on;
 Its radiant light is nearing,
@@ -23,7 +23,7 @@ Will wipe all tears away;
 Nor clouds nor night remaining,
 But one eternal day.
 
-[Verse 2]
+{Verse 2}
 O Christian, keep from sleeping,
 And let your love abound;
 Be watchful, prayerful, faithful,

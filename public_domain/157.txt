@@ -1,11 +1,11 @@
-Title:Go to Dark Gethsemane
-Author:©
-Copyright:Public Domain
+Title: Go to Dark Gethsemane
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 157
-PlayOrder:Verse 1,Verse 2,Verse 3
+Hymnal: Hymn 157
+PlayOrder: Verse 1,Verse 2,Verse 3
 
-[Verse 1]
+{Verse 1}
 Go to dark Gethsemane,
 Ye who feel the tempter’s power
 Your Redeemer’s conflict see.
@@ -13,7 +13,7 @@ Watch with him one bitter hour;
 Turn not from his griefs away;
 Learn from Jesus Christ to pray.
 
-[Verse 2]
+{Verse 2}
 See Him at the judgment hall,
 Beaten, bound, reviled, arraigned;
 See Him meekly bearing all;
@@ -21,7 +21,7 @@ Love to man His soul sustained!
 Shun not suffering, shame, or loss;
 Learn from him to bear the cross.
 
-[Verse 3]
+{Verse 3}
 Calvary’s mournful mountain climb;
 There, adoring at his feet,
 Mark that miracle of time,

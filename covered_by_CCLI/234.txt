@@ -1,11 +1,11 @@
-Title:Christ Is the World’s Light
-Author:©
-Copyright:Projection Permitted Under
+Title: Christ Is the World’s Light
+Author: ©
+Copyright: Projection Permitted Under
 CCLI:4916068
-Hymnal:Hymn 234
-PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
+Hymnal: Hymn 234
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4
 
-[Verse 1]
+{Verse 1}
 Christ is the world’s light,
 Christ and none other;
 born in our darkness,
@@ -14,7 +14,7 @@ if we have seen Him,
 we have seen the Father:
 Glory to God on high!
 
-[Verse 2]
+{Verse 2}
 Christ is the world’s peace,
 Christ and none other;
 no one can serve Him,
@@ -23,7 +23,7 @@ Who else unites us,
 one in God the Father?
 Glory to God on high!
 
-[Verse 3]
+{Verse 3}
 Christ is the world’s life,
 Christ and none other;
 sold once for silver,
@@ -32,7 +32,7 @@ He, who redeems us,
 reigns with God the Father:
 Glory to God on high!
 
-[Verse 4]
+{Verse 4}
 Give God the glory,
 God and none other;
 give God the glory,

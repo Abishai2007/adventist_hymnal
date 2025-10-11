@@ -1,10 +1,10 @@
-Title:Let All Mortal Flesh Keep Silence
-Author:©
-Copyright:Public Domain
+Title: Let All Mortal Flesh Keep Silence
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 662
+Hymnal: Hymn 662
 
-[Verse 1]
+{Verse 1}
 Let all mortal flesh keep silence,
 And with fear and trembling stand;
 Ponder nothing earthly-minded,

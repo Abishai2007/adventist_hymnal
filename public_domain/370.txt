@@ -1,10 +1,10 @@
-Title:Christ for the World
-Author:©
-Copyright:Public Domain
+Title: Christ for the World
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 370
+Hymnal: Hymn 370
 
-[Verse 1]
+{Verse 1}
 Christ for the world we sing,
 the world to Christ we bring,
 with loving zeal;
@@ -13,7 +13,7 @@ the faint and overborne,
 sinsick and sorrow-worn,
 whom Christ doth heal.
 
-[Verse 2]
+{Verse 2}
 Christ for the world we sing,
 the world to Christ we bring,
 with fervent prayer;
@@ -22,7 +22,7 @@ by restless passions tossed,
 redeemed at countless cost,
 from dark despair.
 
-[Verse 3]
+{Verse 3}
 Christ for the world we sing,
 the world to Christ we bring,
 with joyful song;

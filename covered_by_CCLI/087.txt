@@ -1,11 +1,11 @@
-Title:God Who Spoke in the Beginning
-Author:©
-Copyright:Projection Permitted Under
+Title: God Who Spoke in the Beginning
+Author: ©
+Copyright: Projection Permitted Under
 CCLI:4718424
-Hymnal:Hymn 87
-PlayOrder:Verse 1,Verse 2,Verse 3
+Hymnal: Hymn 87
+PlayOrder: Verse 1,Verse 2,Verse 3
 
-[Verse 1]
+{Verse 1}
 God who spoke in the beginning,
 Forming rock and shaping spar,
 Set all life and growth in motion,
@@ -13,7 +13,7 @@ Earthly world and distant star;
 He who calls the earth to order
 Is the ground of what we are.
 
-[Verse 2]
+{Verse 2}
 God who spoke thro’ men and nations,
 Thro’ events long past and gone,
 Showing still today His purpose,
@@ -21,7 +21,7 @@ Speaks supremely through His Son;
 He who calls the earth to order
 Gives His word and it is done.
 
-[Verse 3]
+{Verse 3}
 God whose speech becomes incarnate –
 Christ is servant, Christ is Lord –
 Calls us to a life of service,

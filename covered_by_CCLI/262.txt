@@ -1,19 +1,19 @@
-Title:Sweet, Sweet Spirit
-Author:©
-Copyright:Projection Permitted Under
+Title: Sweet, Sweet Spirit
+Author: ©
+Copyright: Projection Permitted Under
 CCLI:18204
-Hymnal:Hymn 262
-PlayOrder:Verse 1,Verse 2,Chorus
+Hymnal: Hymn 262
+PlayOrder: Verse 1,Verse 2,Chorus
 
-[Verse 1]
+{Verse 1}
 There’s a sweet, sweet spirit in this place,
 And I know that it’s the spirit of the Lord;
 
-[Verse 2]
+{Verse 2}
 There are sweet expressions on each face,
 And I know they feel the presence of the Lord.
 
-[Chorus]
+{Chorus}
 Sweet Holy Spirit,
 Sweet Heavenly Dove,
 Stay right here with us,

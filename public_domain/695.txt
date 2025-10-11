@@ -1,10 +1,10 @@
-Title:Praise God, From Whom All Blessings
-Author:©
-Copyright:Public Domain
+Title: Praise God, From Whom All Blessings
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 695
+Hymnal: Hymn 695
 
-[Verse 1]
+{Verse 1}
 Praise God, from Whom all blessings flow;
 Praise Him, all creatures here below;
 Praise Him above, ye heavenly host;

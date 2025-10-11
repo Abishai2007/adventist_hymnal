@@ -1,11 +1,11 @@
-Title:We Gather Together
-Author:©
-Copyright:Public Domain
+Title: We Gather Together
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 8
-PlayOrder:Verse 1,Verse 2,Verse 3
+Hymnal: Hymn 8
+PlayOrder: Verse 1,Verse 2,Verse 3
 
-[Verse 1]
+{Verse 1}
 We gather together to ask
 the Lord’s blessing;
 He chastens and hastens
@@ -15,7 +15,7 @@ now cease from distressing.
 Sing praises to His Name;
 He forgets not His own.
 
-[Verse 2]
+{Verse 2}
 Beside us to guide us,
 our God with us joining,
 Ordaining, maintaining
@@ -25,7 +25,7 @@ fight we were winning;
 Thou, Lord, were at our side,
 all glory be Thine!
 
-[Verse 3]
+{Verse 3}
 We all do extol Thee,
 Thou leader triumphant,
 And pray that Thou still

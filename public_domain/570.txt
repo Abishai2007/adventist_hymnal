@@ -1,11 +1,11 @@
-Title:Not I, But Christ
-Author:©
-Copyright:Public Domain
+Title: Not I, But Christ
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 570
-PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
+Hymnal: Hymn 570
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4
 
-[Verse 1]
+{Verse 1}
 Not I, but Christ,
 be honoured, loved, exalted;
 Not I, but Christ,
@@ -16,7 +16,7 @@ in every look and action,
 Not I, but Christ,
 in every thought and word.
 
-[Verse 2]
+{Verse 2}
 Not I, but Christ,
 to gently soothe in sorrow,
 Not I, but Christ,
@@ -27,7 +27,7 @@ to lift the weary burden,
 Not I, but Christ,
 to hush away all fear.
 
-[Verse 3]
+{Verse 3}
 Christ, only Christ!
 No idle words e’er falling,
 Christ, only Christ;
@@ -38,7 +38,7 @@ no self important bearing;
 Christ, only Christ,
 no trace of “I” be found.
 
-[Verse 4]
+{Verse 4}
 Not I, but Christ,
 my every need supplying,
 Not I, but Christ,

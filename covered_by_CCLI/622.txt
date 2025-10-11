@@ -1,11 +1,11 @@
-Title:Come, Come, Ye Saints
-Author:©
-Copyright:Projection Permitted Under
+Title: Come, Come, Ye Saints
+Author: ©
+Copyright: Projection Permitted Under
 CCLI:165542
-Hymnal:Hymn 622
-PlayOrder:Verse 1,Verse 2
+Hymnal: Hymn 622
+PlayOrder: Verse 1,Verse 2
 
-[Verse 1]
+{Verse 1}
 Come, come, ye saints, no toil nor labour fear;
 But with joy wend your way.
 Though hard to you the journey may appear,
@@ -15,7 +15,7 @@ And we can trust Him to provide;
 Do this, and joy your hearts will swell:
 All is well! All is well!
 
-[Verse 2]
+{Verse 2}
 We’ll find the rest which God for us prepared,
 When at last He will call;
 Where none will come to hurt or make afraid,

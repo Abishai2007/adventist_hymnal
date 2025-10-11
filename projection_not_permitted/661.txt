@@ -1,17 +1,17 @@
-Title:Holy, Holy, Holy
-Author:
-Copyright:Projection Not Permitted
+Title: Holy, Holy, Holy
+Author: 
+Copyright: Projection Not Permitted
 CCLI:
-Hymnal:Hymn 661
+Hymnal: Hymn 661
 
 
-[Verse 1]
+{Verse 1}
 Holy, holy, holy, Holy is the Lord!
 Holy, holy, holy, Holy is our God!
 He who always liveth, Evermore the same
 Heav’n and earth He ruleth, Come and praise His name!
 
-[Verse 2]
+{Verse 2}
 Holy, holy, holy, Holy is the Lord!
 Holy, holy, holy, Holy is our God!
 Glorious adn beloved Is the One adored!

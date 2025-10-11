@@ -1,10 +1,10 @@
-Title:Cast Thy Burden Upon the Lord
-Author:©
-Copyright:Public Domain
+Title: Cast Thy Burden Upon the Lord
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 666
+Hymnal: Hymn 666
 
-[Verse 1]
+{Verse 1}
 Cast thy burden upon the Lord,
 And He shall sustain thee;
 He never will suffer the righteous to fall;

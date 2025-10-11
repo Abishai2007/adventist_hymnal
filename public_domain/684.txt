@@ -1,10 +1,10 @@
-Title:Hear Our Prayer, O Lord
-Author:©
-Copyright:Public Domain
+Title: Hear Our Prayer, O Lord
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 684
+Hymnal: Hymn 684
 
-[Verse 1]
+{Verse 1}
 Hear Our Prayer, O Lord,
 Hear our prayer, O Lord;
 Incline Thine ear to us,

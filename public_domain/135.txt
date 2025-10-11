@@ -1,11 +1,11 @@
-Title:O Little Town of Bethlehem
-Author:©
-Copyright:Public Domain
+Title: O Little Town of Bethlehem
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 135
-PlayOrder:Verse 1,Verse 2,Verse 3,Verse 4
+Hymnal: Hymn 135
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4
 
-[Verse 1]
+{Verse 1}
 O little town of Bethlehem,
 how still we see thee lie!
 Above thy deep and dreamless sleep
@@ -16,7 +16,7 @@ the everlasting Light;
 The hopes and fears of all the years
 are met in thee tonight.
 
-[Verse 2]
+{Verse 2}
 For Christ is born of Mary,
 and gathered all above,
 While mortals sleep, the angels keep
@@ -27,7 +27,7 @@ proclaim the holy birth,
 And praises sing to God the King,
 and peace to men on earth!
 
-[Verse 3]
+{Verse 3}
 How silently, how silently,
 the wondrous Gift is giv’n;
 So God imparts to human hearts
@@ -38,7 +38,7 @@ but in this world of sin,
 Where meek souls will receive Him still,
 the dear Christ enters in.
 
-[Verse 4]
+{Verse 4}
 O holy Child of Bethlehem,
 descend to us, we pray;
 Cast out our sin, and enter in,

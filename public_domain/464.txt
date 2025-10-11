@@ -1,10 +1,10 @@
-Title:When I Can Read My Title Clear
-Author:©
-Copyright:Public Domain
+Title: When I Can Read My Title Clear
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 464
+Hymnal: Hymn 464
 
-[Verse 1]
+{Verse 1}
 When I can read my title clear
 To mansions in the skies
 I’ll bid farewell to every fear,
@@ -14,7 +14,7 @@ And wipe my weeping eyes,
 I’ll bid farewell to every fear,
 And wipe my weeping eyes.
 
-[Verse 2]
+{Verse 2}
 Should earth against my soul engage,
 And fiery darts be hurled,
 Then I can smile at Satan’s rage,

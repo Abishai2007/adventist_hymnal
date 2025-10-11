@@ -1,10 +1,10 @@
-Title:I Saw One Weary
-Author:©
-Copyright:Public Domain
+Title: I Saw One Weary
+Author: ©
+Copyright: Public Domain
 CCLI:
-Hymnal:Hymn 441
+Hymnal: Hymn 441
 
-[Verse 1]
+{Verse 1}
 I saw one weary, sad, and torn,
 With eager steps press on the way,
 Who long the hallowed cross had born,
@@ -14,7 +14,7 @@ Upon his brow was furrowed there;
 I asked what buoyed his spirits up,
 “O this” said he-“the blessed hope.”
 
-[Verse 2]
+{Verse 2}
 And one I saw, with sword and shield,
 Who boldly braved the world’s cold frown,
 And fought, unyielding, on the field,
@@ -24,7 +24,7 @@ No murmur from his heart arose;
 I asked what buoyed his spirits up,
 “O this!” said he-“the blessed hope.”
 
-[Verse 3]
+{Verse 3}
 And there was one who left behind
 The cherished friends of early years,
 And honour, pleasure, wealth re-signed,
@@ -34,7 +34,7 @@ Yet still a smile of joy he wore;
 O! what can bouy the spirit up?
 ’Tis this alone-the blessed hope.
 
-[Verse 4]
+{Verse 4}
 While pilgrims here we journey on
 In this dark vale of sin and gloom,
 Through tribulation, hate, and scorn,

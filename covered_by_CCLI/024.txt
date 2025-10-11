@@ -1,11 +1,11 @@
-Title:Every Star Shall Sing a Carol
-Author:©
-Copyright:Projection Permitted Under
+Title: Every Star Shall Sing a Carol
+Author: ©
+Copyright: Projection Permitted Under
 CCLI:515408
-Hymnal:Hymn 24
-PlayOrder:Verse 1,Verse 2,Verse 3
+Hymnal: Hymn 24
+PlayOrder: Verse 1,Verse 2,Verse 3
 
-[Verse 1]
+{Verse 1}
 Every star shall sing a carol;
 Every creatures, high or low,
 Come and praise the King of heaven
@@ -13,7 +13,7 @@ By whatever name you know.
 God above, Man below,
 Holy is the name I know.
 
-[Verse 2]
+{Verse 2}
 When the King of all creation
 Had a cradle on the earth,
 Holy was the human body,
@@ -21,7 +21,7 @@ Holy was the human birth.
 God above, Man below,
 Holy is the name I know.
 
-[Verse 3]
+{Verse 3}
 Every star and every planet,
 Every creature, high or low,
 Come and praise the King of heaven
