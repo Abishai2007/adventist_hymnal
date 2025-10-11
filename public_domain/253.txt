@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 253
+PlayOrder: Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus,Verse 5,Chorus
 
 {Verse 1}
 There’s no other name like Jesus,
