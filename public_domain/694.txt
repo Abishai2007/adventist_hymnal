@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 694
+PlayOrder: Verse 1
 
 {Verse 1}
 Praise God, from Whom all blessings flow;

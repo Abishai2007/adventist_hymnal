@@ -3,7 +3,7 @@ Author:
 Copyright: Projection Not Permitted
 CCLI:
 Hymnal: Hymn 347
-
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4,Verse 5
 
 {Verse 1}
 Built on the Rock the Church shall stand,

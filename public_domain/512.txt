@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 512
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4
 
 {Verse 1}
 Just when I need Him, Jesus is near,

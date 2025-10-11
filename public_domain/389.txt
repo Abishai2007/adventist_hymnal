@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 389
+PlayOrder: Verse 1,Verse 2,Verse 3
 
 {Verse 1}
 Light of light, enlighten me,

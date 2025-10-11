@@ -3,7 +3,9 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 674
+PlayOrder: Verse 1
 
+{Verse 1}
 Shalom, my friends,
 shalom, my friends,
 shalom, shalom.

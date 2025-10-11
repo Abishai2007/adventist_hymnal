@@ -3,7 +3,7 @@ Author:
 Copyright: Projection Not Permitted
 CCLI:
 Hymnal: Hymn 542
-
+PlayOrder: Verse 1,Verse 2
 
 {Verse 1}
 Jesus, Friend, so kind and gentle,

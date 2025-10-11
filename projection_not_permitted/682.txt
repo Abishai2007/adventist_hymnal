@@ -3,7 +3,9 @@ Author:
 Copyright: Projection Not Permitted
 CCLI:
 Hymnal: Hymn 682
+PlayOrder: Verse 1
 
+{Verse 1}
 As You have promised, Lord, today,
 You are letting Your servant go away in peace.
 May eyes have seen You in broad daylight

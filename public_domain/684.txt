@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 684
+PlayOrder: Verse 1
 
 {Verse 1}
 Hear Our Prayer, O Lord,

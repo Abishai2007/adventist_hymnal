@@ -3,7 +3,9 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 679
+PlayOrder: Verse 1
 
+{Verse 1}
 God be in my head,
 And in my thinking.
 god be in my eyes,

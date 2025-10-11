@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 678
+PlayOrder: Verse 1
 
 {Verse 1}
 God be in my head, and in my understanding;

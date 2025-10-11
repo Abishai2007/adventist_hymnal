@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 691
+PlayOrder: Verse 1
 
 {Verse 1}
 Lead me, Lord, lead me in thy righteousness;

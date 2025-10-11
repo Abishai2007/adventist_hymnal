@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 464
+PlayOrder: Verse 1,Verse 2
 
 {Verse 1}
 When I can read my title clear

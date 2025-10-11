@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 514
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4
 
 {Verse 1}
 Lord of our life, and God of our salvation,

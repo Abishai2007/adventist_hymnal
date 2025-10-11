@@ -3,7 +3,7 @@ Author:
 Copyright: Projection Not Permitted
 CCLI:
 Hymnal: Hymn 67
-
+PlayOrder: Verse 1,Verse 2
 
 {Verse 1}
 O Lord, now let Your servant

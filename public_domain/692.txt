@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 692
+PlayOrder: Verse 1
 
 {Verse 1}
 The Lord is in His holy temple,

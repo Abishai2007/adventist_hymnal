@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 387
+PlayOrder: Verse 1,Verse 2,Verse 3
 
 {Verse 1}
 Peace and healing on thy wing;

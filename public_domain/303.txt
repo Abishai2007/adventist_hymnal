@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 303
+PlayOrder: Verse 1,Verse 2,Verse 3
 
 {Verse 1}
 Beneath the cross of Jesus

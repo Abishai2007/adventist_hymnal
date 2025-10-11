@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 301
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4
 
 {Verse 1}
 Nearer, still nearer, close to Thy heart,

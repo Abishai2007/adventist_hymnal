@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 504
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4
 
 {Verse 1}
 Lord Jesus, think on me, And purge away my sin;

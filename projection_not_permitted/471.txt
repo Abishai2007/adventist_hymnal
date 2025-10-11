@@ -3,7 +3,7 @@ Author:
 Copyright: Projection Not Permitted
 CCLI:
 Hymnal: Hymn 471
-
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4
 
 {Verse 1}
 Dona nobis pacem, pacem;

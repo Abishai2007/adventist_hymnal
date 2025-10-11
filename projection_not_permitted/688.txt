@@ -3,7 +3,9 @@ Author:
 Copyright: Projection Not Permitted
 CCLI:
 Hymnal: Hymn 688
+PlayOrder: Verse 1
 
+{Verse 1}
 Surely, surely the Lord has been here,
 Surely angels still linger near;
 I hear music soft on my ear,

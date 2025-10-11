@@ -3,7 +3,9 @@ Author:
 Copyright: Projection Not Permitted
 CCLI:
 Hymnal: Hymn 677
+PlayOrder: Verse 1
 
+{Verse 1}
 Heavenly Father, to Thee we pray,
 On the holy Sabbath day;
 Through Thy Word Thy will make known;

@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 497
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4,Verse 5,Verse 6,Verse 7,Verse 8
 
 {Verse 1}
 O gracious Father of mankind,

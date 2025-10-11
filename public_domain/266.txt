@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 266
+PlayOrder: Verse 1,Verse 2,Verse 3,Verse 4,Verse 5
 
 {Verse 1}
 Spirit of God, descend upon my heart;

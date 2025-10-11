@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 669
+PlayOrder: Verse 1
 
 {Verse 1}
 The Lord bless you and keep you,

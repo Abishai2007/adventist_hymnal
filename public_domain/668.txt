@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 668
+PlayOrder: Verse 1
 
 {Verse 1}
 O Thou who hearest every heartfelt prayer,

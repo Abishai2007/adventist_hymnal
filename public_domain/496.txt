@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 496
+PlayOrder: Verse 1,Verse 2
 
 {Verse 1}
 Eternal Love, we have no good to bring Thee,

@@ -3,7 +3,9 @@ Author:
 Copyright: Projection Not Permitted
 CCLI:
 Hymnal: Hymn 690
+PlayOrder: Verse 1
 
+{Verse 1}
 Dismiss us, Lord, with blessing, we pray;
 As from Thy worship we go our ways;
 Guide in life’s conflicts, all through the day;

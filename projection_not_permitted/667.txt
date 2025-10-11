@@ -3,7 +3,9 @@ Author:
 Copyright: Projection Not Permitted
 CCLI:
 Hymnal: Hymn 667
+PlayOrder: Verse 1
 
+{Verse 1}
 Lord, bless Thy word to every heart
 In this Thy house today,
 And help us each as now we part,

@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 686
+PlayOrder: Verse 1
 
 {Verse 1}
 Bless thou the gifts our hands have brought;

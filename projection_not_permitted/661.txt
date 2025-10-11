@@ -3,7 +3,7 @@ Author:
 Copyright: Projection Not Permitted
 CCLI:
 Hymnal: Hymn 661
-
+PlayOrder: Verse 1,Verse 2
 
 {Verse 1}
 Holy, holy, holy, Holy is the Lord!

@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 477
+PlayOrder: Verse 1,Verse 2,Verse 3
 
 {Verse 1}
 Come, ye disconsolate, where’er ye languish.

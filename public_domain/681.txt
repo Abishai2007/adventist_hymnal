@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 681
+PlayOrder: Verse 1
 
 {Verse 1}
 This is the day the Lord hath made;

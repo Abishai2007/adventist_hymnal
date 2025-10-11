@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 513
+PlayOrder: Verse 1,Verse 2,Verse 3
 
 {Verse 1}
 In heavenly love abiding, No change my heart shall fear;

@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 670
+PlayOrder: Verse 1
 
 {Verse 1}
 We give Thee but Thine own,

@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 630
+PlayOrder: Verse 1,Verse 2,Verse 3
 
 {Verse 1}
 Rise, my soul, and stretch thy wings, thy better portion trace;

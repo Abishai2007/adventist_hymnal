@@ -3,7 +3,7 @@ Author:
 Copyright: Projection Not Permitted
 CCLI:
 Hymnal: Hymn 563
-
+PlayOrder: Verse 1
 
 {Verse 1}
 Praise and thanksgiving let everyone bring

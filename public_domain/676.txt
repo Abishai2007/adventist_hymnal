@@ -3,6 +3,8 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 676
+PlayOrder: Verse 1
 
+{Verse 1}
 Thy Word is a lantern unto my feet,
 And a light unto my path.

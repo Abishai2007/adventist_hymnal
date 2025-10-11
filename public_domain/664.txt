@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 664
+PlayOrder: Verse 1
 
 {Verse 1}
 A-men,

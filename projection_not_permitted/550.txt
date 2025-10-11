@@ -3,7 +3,7 @@ Author:
 Copyright: Projection Not Permitted
 CCLI:
 Hymnal: Hymn 550
-
+PlayOrder: Verse 1,Verse 2,Verse 3
 
 {Verse 1}
 Every flow’r that grows, Every brook that flows,

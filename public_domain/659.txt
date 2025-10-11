@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 659
+PlayOrder: Verse 1,Verse 2
 
 {Verse 1}
 May the grace of Christ our Saviour

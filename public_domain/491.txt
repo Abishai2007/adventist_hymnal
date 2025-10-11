@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 491
+PlayOrder: Verse 1,Verse 2,Verse 3
 
 {Verse 1}
 In the hour of trial, Jesus, plead for me,

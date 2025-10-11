@@ -3,7 +3,9 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 689
+PlayOrder: Verse 1
 
+{Verse 1}
 Day by day, Dear Lord, of Thee three things I pray:
 To see Thee more clearly, Love Thee more dearly,
 Follow Thee more nearly, Day by day.

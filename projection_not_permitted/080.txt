@@ -3,7 +3,7 @@ Author:
 Copyright: Projection Not Permitted
 CCLI:
 Hymnal: Hymn 80
-
+PlayOrder: Verse 1,Verse 2,Verse 3
 
 {Verse 1}
 O world of God, so vast and strange,

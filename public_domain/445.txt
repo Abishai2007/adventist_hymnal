@@ -3,6 +3,7 @@ Author: ©
 Copyright: Public Domain
 CCLI:
 Hymnal: Hymn 445
+PlayOrder: Verse 1,Verse 2,Verse 3
 
 {Verse 1}
 I’m but a stranger here,

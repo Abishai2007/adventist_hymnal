@@ -3,7 +3,7 @@ Author:
 Copyright: Projection Not Permitted
 CCLI:
 Hymnal: Hymn 37
-
+PlayOrder: Verse 1,Verse 2,Verse 3
 
 {Verse 1}
 O sing my soul, your Maker’s praise
